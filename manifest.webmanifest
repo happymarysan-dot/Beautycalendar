@@ -1,1 +1,25 @@
-{"name": "The Beauty Journal · Skin & Hair", "short_name": "Beauty Journal", "description": "Личный офлайн-журнал ухода за кожей и волосами", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#d8d0c7", "theme_color": "#d8d0c7", "lang": "ru", "icons": [{"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"}, {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
+{
+  "name": "Beautycalendar \u00b7 Quiet Luxury",
+  "short_name": "Beautycalendar",
+  "description": "A private daily skincare ritual and progress journal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f0e9",
+  "theme_color": "#f5f0e9",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

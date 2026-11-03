@@ -1,13 +1,13 @@
 {
-  "name": "Beautycalendar \u00b7 Quiet Luxury",
-  "short_name": "Beautycalendar",
-  "description": "A private daily skincare ritual and progress journal",
+  "name": "The Beauty Journal — Skin, Hair & Self-Care",
+  "short_name": "Beauty Journal",
+  "description": "Личный офлайн-журнал ухода за кожей и волосами",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f0e9",
-  "theme_color": "#f5f0e9",
-  "lang": "en",
+  "background_color": "#d8d0c7",
+  "theme_color": "#d8d0c7",
+  "lang": "ru",
   "icons": [
     {
       "src": "./icon-192.png",

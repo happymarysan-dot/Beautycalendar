@@ -1,25 +1,10 @@
-BEAUTYCALENDAR — QUIET LUXURY EDITION (v2)
+THE BEAUTY JOURNAL V5 — Private Edit
+Skin & Hair independent calendars, local data, 1000 original inspirational reflections.
+Upload all files to GitHub Pages root, replacing previous versions.
+IMPORTANT: export a backup before updating; do not clear Safari website data.
+Fonts use system fallbacks, so exact appearance varies by device.
+The existing abstract imagery is retained; replace only with photos you own or are licensed to publish.
 
-Обновление GitHub Pages, репозиторий Beautycalendar:
-1. Перед обновлением открой старую версию в Safari и сделай резервную копию в разделе «Настройки». Сохрани файл в «Файлы».
-2. В GitHub открой Beautycalendar → Code → Add file → Upload files.
-3. Загрузи ВСЕ 7 файлов из этой папки (index.html, app.js, style.css, sw.js, manifest.webmanifest, icon-192.png, icon-512.png) в КОРЕНЬ репозитория. ZIP целиком загружать не надо.
-4. При замене файлов GitHub может потребовать подтверждение перезаписи; нажми Commit changes в main.
-5. GitHub Pages автоматически опубликует обновление. Подожди несколько минут. Открой https://happymarysan-dot.github.io/Beautycalendar/ и обнови страницу.
-6. При необходимости закрой и заново открой приложение с домашнего экрана iPhone. Если старая версия закэширована, подожди обновления service worker. Не удаляй данные Safari: это может удалить личные записи.
+V7: Serif typography, grain overlay, subtle glass panels, reduced-motion-aware parallax. Google GFS Didot loads online; offline uses system Didot/Bodoni/Times serif fallback. No local data cleared.
 
-ФУНКЦИИ
-- Календарь, утро/вечер, ежедневные Manyo Bifida, Purito, SPF 50.
-- Адапален, азелаиновая кислота 15%, ниацинамид, Бепантен Baby.
-- Отдельное изменение активов на выбранную дату.
-- Skin Mood: воспаления, комедоны, сухость, раздражение, заметки.
-- Skin Progress: локальные фотографии, сжатые для экономии памяти.
-- Active Tracker и Skin Insights: подсчёт отмеченных применений и регулярности.
-- Private Backup: экспорт JSON, включая фото, и импорт.
-- Офлайн после первого полного посещения через HTTPS.
-
-ДАННЫЕ
-Прежний ключ localStorage 'girly-skincare-v1' сохранён для миграции старых отметок. Фотографии хранятся в IndexedDB. Ничего не отправляется на сервер приложением; GitHub Pages публично размещает только код. Не загружай файл резервной копии в публичный репозиторий. Удаление данных сайта может стереть данные. Сохраняй резервные копии в безопасном месте.
-
-МЕДИЦИНСКОЕ ПРИМЕЧАНИЕ
-Расписание активов — ориентир, не назначение. Не увеличивай частоту при раздражении. Адапален противопоказан при беременности и планировании. Следуй назначениям дерматолога.
+V8 Ingredient Check: offline curated ingredient guide, no live API or definitive comedogenicity scores. Existing localStorage keys are unchanged. Before deploying, export a backup from the existing app. Upload ALL files to the repository root.
